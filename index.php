@@ -145,11 +145,11 @@
                                             <center>
                                                 <h3>BEM FIK UBL</h3>
                                             </center>
-                                            <p>Badan Eksekutif Mahasiswa Fakultas Hukum Universitas Bandar Lampung(BEM FIK UBL) merupakan Lembaga Kemahasiswaan intra kampus yang melaksanakan fungsi eksekutif dalam lingkup mahasiswa FIK UBL berdasarkan Konstitusi Keluarga Mahasiswa Fakultas Ilmu Komputer Universitas Bandar Lampung.
+                                            <p>Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer Universitas Bandar Lampung(BEM FIK UBL) merupakan Lembaga Kemahasiswaan intra kampus yang melaksanakan fungsi eksekutif dalam lingkup mahasiswa FIK UBL berdasarkan Konstitusi Keluarga Mahasiswa Fakultas Ilmu Komputer Universitas Bandar Lampung.
                                                 <center>
                                                     <h3>SEJARAH BEM FIK UBL</h3>
                                                 </center>
-                                                <p>Badan Eksekutif Mahasiswa Fakultas Hukum Universitas Bandar Lampung(BEM FIK UBL) merupakan Lembaga Kemahasiswaan intra kampus yang melaksanakan fungsi eksekutif dalam lingkup mahasiswa FIK UBL berdasarkan Konstitusi Keluarga Mahasiswa Fakultas Ilmu Komputer Universitas Bandar Lampung.</p>
+                                                <p>Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer Universitas Bandar Lampung(BEM FIK UBL) merupakan Lembaga Kemahasiswaan intra kampus yang melaksanakan fungsi eksekutif dalam lingkup mahasiswa FIK UBL berdasarkan Konstitusi Keluarga Mahasiswa Fakultas Ilmu Komputer Universitas Bandar Lampung.</p>
                                                 <center>
                                                     <h3>VISI dan MISI</h3>
                                                 </center>
